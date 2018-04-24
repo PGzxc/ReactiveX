@@ -1,6 +1,6 @@
 # ReactiveX学习
 # 思维导图
-![](imgs\ReactiveX.png)
+![](imgs/ReactiveX.png)
 # ReactiveX学习大纲
 ## ReactiveX定义
 1. 可观察序列
